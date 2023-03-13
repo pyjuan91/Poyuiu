@@ -6,4 +6,9 @@
 <img src="https://github.com/Poyuiu/Poyuiu/blob/main/tenor%20(2).gif" width="190" align="top">
 &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Poyuiu/Poyuiu/blob/main/tenor.gif" width="190" align="top">
+  
 <div>
+ 
+ <h3>DP exercising</h3>
+  
+  My favorite search engine is **Duck Duck Go](https://duckduckgo.com "Notion notes")**.
