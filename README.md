@@ -8,7 +8,8 @@
 <img src="https://github.com/Poyuiu/Poyuiu/blob/main/tenor.gif" width="190" align="top">
   
 <div>
- 
+ <html>
  <h3>DP exercising</h3>
   
-  **[Atcoder DP Contest]**(https://developing-khaan-e75.notion.site/AtCoder-DP-Contest-3fc3d8b5a083426e8b171e164dda216c "Notion notes").
+  <a href="https://developing-khaan-e75.notion.site/AtCoder-DP-Contest-3fc3d8b5a083426e8b171e164dda216c" target="_blank">AtCoder DP Contest</a>
+  </html>
