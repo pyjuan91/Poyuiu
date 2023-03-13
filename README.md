@@ -11,4 +11,4 @@
  
  <h3>DP exercising</h3>
   
-  My favorite search engine is **Duck Duck Go](https://duckduckgo.com "Notion notes")**.
+  **[Atcoder DP Contest]**(https://developing-khaan-e75.notion.site/AtCoder-DP-Contest-3fc3d8b5a083426e8b171e164dda216c "Notion notes").
